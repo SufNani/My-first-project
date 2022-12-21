@@ -18,7 +18,7 @@ var wavesurfer = Object.create(WaveSurfer);
 wavesurfer.init({
     container: "#wave",
     waveColor: "#7D7D7D", // тут можно поменять фоновый цвет плеера
-    progressColor: "#fff", // тут можно поменять цвет заполнения
+    progressColor: "#D5A216", // тут можно поменять цвет заполнения
     height: 48, // высота плеера
     scrollParent: false
 });
